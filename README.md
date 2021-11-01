@@ -19,7 +19,7 @@ This translator will be used in this HeschyApps:
 translate(word,args)
 ```
      
-#### Example:
+### Example:
 
 Code:   
 ```python
