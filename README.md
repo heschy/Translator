@@ -14,12 +14,14 @@ This translator will be used in this HeschyApps:
 
 ## Usage
 
-General usage:
+### General usage:
 ```python
 translate(word,args)
 ```
      
-Example:
+#### Example:
+
+Code:   
 ```python
 x = ['UPPERCASE', 'COMPLETE']
 print(translate('MHN',x));
