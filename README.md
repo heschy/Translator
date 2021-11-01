@@ -11,3 +11,20 @@ This translator will be used in this HeschyApps:
 
 - [X] StarTrek-Library *(BackEnd)*
     - Any App that uses this Backend.
+
+## Usage
+
+General usage:
+```python
+translate(word,args)
+```
+
+Example:
+```python
+x = ['UPPERCASE', 'COMPLETE']
+print(translate('MHN',x));
+```
+Output:
+```
+Emergency Medical Holographic program
+```
