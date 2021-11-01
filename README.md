@@ -18,7 +18,7 @@ General usage:
 ```python
 translate(word,args)
 ```
-
+     
 Example:
 ```python
 x = ['UPPERCASE', 'COMPLETE']
